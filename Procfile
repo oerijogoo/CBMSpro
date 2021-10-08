@@ -1,0 +1,1 @@
+web:gunicorm CBMSpro.wsgi
