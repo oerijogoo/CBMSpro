@@ -1,1 +1,1 @@
-web: gunicorm CBMSpro.wsgi
+web: gunicorm CBMSpro.wsgi --log-file -
